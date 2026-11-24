@@ -1,7 +1,7 @@
 <h1 align="center">Mohamed Afkir</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=AI+%26+Big+Data+Engineering+Student;Data+Science+%26+Deep+Learning+Enthusiast;Seeking+a+2027+PFE+Internship" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=AI+%26+Big+Data+Engineering+Student;Data+Science+%26+Deep+Learning+Enthusiast" alt="Typing SVG" />
 </p>
 
 <p align="center">
